@@ -10,6 +10,10 @@
 #include <iostream>
 #include <fstream>
 
+/**********************************************************************/
+/* cgal and boost libraries are needed to compile and run the project */
+/**********************************************************************/
+
 /*
 For every engineered algorithm, we have created a different class (refer to the header files). 
 The constructors for these classes need two parameters: a vector of the input
@@ -38,8 +42,8 @@ int main() {
     	exit(1);
     }
 
-	// Read the input file to the vector 'points'
-	std::vector<Point> P;
+   // Read the input file to the vector 'points'
+    std::vector<Point> P;
     long double x,y;
     while(input >> x >> y )
         P.emplace_back(Point(x,y));
