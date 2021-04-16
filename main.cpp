@@ -36,7 +36,7 @@ int main() {
        the point i, separated by a single space.
     */
     
-    std::ifstream input("world.txt");   
+    std::ifstream input("world.txt"); // this point set is zipped and uploaded to this repository
     if(input.fail()){
     	std::cout << "File does not exist!" << std::endl;
     	exit(1);
