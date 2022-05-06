@@ -9,4 +9,4 @@ Refer to main.cpp to see how to use the algorithms in this work.
 * [GMP](https://gmplib.org/)
 * [MPFR](https://www.mpfr.org/)
 
-To build the project, use CMake. Please note that depending on your system, the supplied makefile CMakeLists.txt may need to be edited slightly. We have tested the project on Ubuntu 20.04 LTS. 
+
