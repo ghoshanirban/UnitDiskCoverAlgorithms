@@ -19,3 +19,6 @@ Paper URL (arXiv): https://arxiv.org/abs/2205.01716
 * [MPFR](https://www.mpfr.org/)
 
 
+## Acknowledgement
+
+Research on this project was supported by the University of North Florida Academic Technology Grant and partially by NSF Award CCF-1947887.
